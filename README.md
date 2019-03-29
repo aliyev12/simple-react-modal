@@ -1,3 +1,7 @@
+## About
+
+This is a simple React modal using only JavaScript, HTML and CSS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
